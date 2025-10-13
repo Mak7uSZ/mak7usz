@@ -1,9 +1,4 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&color=00A8FF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+a+Team+Roboticus+Member;🚀+Software+Developer+(C%2B%2B%2C+Python);🌐+Web+Developer+(HTML%2C+CSS%2C+WordPress);🏆+Robocup+2025+Brazil+Participant" alt="Typing SVG"/>
-</h1>
-
----
 
 ### ⚡ About Me
 
