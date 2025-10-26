@@ -6,8 +6,11 @@
 🌐 **Web Developer:** HTML, CSS, WordPress  
 🤖 **Team Member:** [roboticus.nl](https://roboticus.nl/)  
 🏆 **Robocup 2025 Brazil Participant**  [Certificate](https://imgur.com/a/8fgOpCs)
+
 🥇 **Netherlands Robocup 2025 Champion**  [NK](https://roboticus.nl/nk-2025/)
+
 🥉 **European Robocup 2025 - 3rd Place**  [Trophy](https://imgur.com/a/db8WkVk)
+
 📜 **Best Technical Documentation Award – Robocup 2025 Brazil** [Certificate](https://imgur.com/a/9PQCJtG)
 
 ---
