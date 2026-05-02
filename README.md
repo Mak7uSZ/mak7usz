@@ -31,11 +31,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mak7uSZ)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 ---
 
