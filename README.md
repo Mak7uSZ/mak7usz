@@ -3,7 +3,7 @@
 ### ⚡ About Me
 
 💻 **Software Developer:** C++, Python  
-🌐 **Web Developer:** HTML, CSS, WordPress  
+🌐 **Web Developer:** HTML, CSS, JavaScript, React, WordPress  
 🤖 **Team Member:** [roboticus.nl](https://roboticus.nl/)  
 🏆 **Robocup 2025 Brazil Participant**  [Certificate](https://imgur.com/a/8fgOpCs)
 
